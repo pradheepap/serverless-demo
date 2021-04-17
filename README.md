@@ -1,0 +1,1 @@
+https://pradheepa.medium.com/serverless-framework-create-nodejs-aws-lambda-f4419e08c332
